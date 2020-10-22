@@ -1,0 +1,1 @@
+(this["webpackJsonprmw-template"]=this["webpackJsonprmw-template"]||[]).push([[30],{1095:function(e,t,i){"use strict";i.r(t),i.d(t,"firebaseApp",(function(){return s}));var n=i(500),p=i.n(n),a=i(188);i(511),i(597),i(599),i(601);const s=p.a.initializeApp(a.a.firebase_config)}}]);
