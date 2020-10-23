@@ -18,7 +18,7 @@ const LPAsync = Loadable({
 const config = {
   firebase_config: {
     apiKey: 'AIzaSyBQAmNJ2DbRyw8PqdmNWlePYtMP0hUcjpY',
-    authDomain: 'react-most-wanted-3b1b2.firebaseapp.com',
+    authDomain: 'mzsirapps.com',
     databaseURL: 'https://react-most-wanted-3b1b2.firebaseio.com',
     projectId: 'react-most-wanted-3b1b2',
     storageBucket: 'react-most-wanted-3b1b2.appspot.com',
@@ -27,7 +27,7 @@ const config = {
   },
   firebase_config_devp: {
     apiKey: 'AIzaSyBQAmNJ2DbRyw8PqdmNWlePYtMP0hUcjpY',
-    authDomain: 'react-most-wanted-3b1b2.firebaseapp.com',
+    authDomain: 'mzsirapps.com',
     databaseURL: 'https://react-most-wanted-3b1b2.firebaseio.com',
     projectId: 'react-most-wanted-3b1b2',
     storageBucket: 'react-most-wanted-3b1b2.appspot.com',
@@ -36,7 +36,7 @@ const config = {
   },
   firebase_config_dev: {
     apiKey: 'AIzaSyB31cMH9nJnERC1WCWA7lQHnY08voLs-Z0',
-    authDomain: 'react-most-wanted-dev.firebaseapp.com',
+    authDomain: 'mzsirapps.com',
     databaseURL: 'https://react-most-wanted-dev.firebaseio.com',
     projectId: 'react-most-wanted-dev',
     storageBucket: 'react-most-wanted-dev.appspot.com',
